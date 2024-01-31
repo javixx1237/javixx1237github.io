@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta charset="utf-8">
+	<title>Página Web de javi</title>
+  </head>
+  <body>
+ 	<h1><p style="color:green">OS PRESENTO MI PÁGINA WEB.</p></h1>
+   </head>
+   <body>
+      <h3><p>¿Que es un hobby?</h3>
+  	<p><i>Un hobby es una actividad que, como afición o pasatiempo favorito, se practica habitualmente en los ratos de ocio.</i>
+   </head>
+   <body>
+ 	<h2>Enlaces mas información</h2>
+     <hr>
+     <p>.<a href="pagina1.html">¿Cuales son los hobbies mas curiosos del mundo?</a></p>
+ 	 <p>.<a href="pagina2.html">¿Cuales son mis hobbies?</a></p>
+    <img src="imagenes/golf.jpg" width="300" height="400" alt"=imagenes golf">
+    <img src="imagenes/leer.jpeg" width="300" height="400" alt"=imagenes leer">
+	<img src="imagenes/pintar.jpeg" width="300" height="400" alt"=imagenes pintar">
+   </body>
+<html>
+
+
